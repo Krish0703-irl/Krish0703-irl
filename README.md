@@ -36,7 +36,6 @@
 💻 Building web projects
 🌱 Learning modern C++
 🚀 Contributing to Open Source
-☕ Running on coffee and deadlines
 ```
 
 ---
