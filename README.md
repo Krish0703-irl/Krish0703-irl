@@ -2,7 +2,7 @@
 
 # Hi there, I'm RadhaKrishnan 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&pause=1000\&color=70A5FD\&center=true\&vCenter=true\&width=650\&lines=Computer+Science+Student;Open+Source+Contributor;Web+Developer;Building+Projects+One+Commit+at+a+Time;Code.+Learn.+Build.+Repeat.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&pause=1000\&color=70A5FD\&center=true\&vCenter=true\&width=650\&lines=Computer+Science+Student;Open+Source+Contributor;Web+Developer;Building+Projects+One+Commit+at+a+Time;Code.+Learn.+Build.+Repeat.)](https://git.io/typing-svg)
 
 [![GitHub followers](https://img.shields.io/github/followers/Krish0703-irl?logo=github\&style=for-the-badge\&color=0891b2\&labelColor=1c1917)](https://github.com/Krish0703-irl)
 [![Profile Views](https://komarev.com/ghpvc/?username=Krish0703-irl\&style=for-the-badge\&color=blueviolet)](https://github.com/Krish0703-irl)
@@ -56,7 +56,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Krish0703-irl&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Krish0703-irl&theme=tokyonight&hide_border=true&starting_year=2025"/>
 
 </div>
 
@@ -66,7 +66,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Krish0703-irl&theme=tokyo-night&hide_border=true&area=true"/>
+<img src="https://ghchart.rshah.org/70a5fd/Krish0703-irl" alt="Contribution chart" width="800"/>
 
 </div>
 
