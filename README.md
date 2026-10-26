@@ -62,16 +62,6 @@
 
 ---
 
-## 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/70a5fd/Krish0703-irl" alt="Contribution chart" width="800"/>
-
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
